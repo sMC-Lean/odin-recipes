@@ -10,3 +10,6 @@ The goal of ths is to demonstrate the use of basic html elements as a few import
 It also showed a relative path in the case of the images;
 
 I used it to practice to the use of Git commands as well as to learn about git bash as I was previously using WSL2;
+
+01/05/2024
+added basic styles the pages as part of css foundations 6: this exercise was to ptactice linking external css and using different selectors and properties;
